@@ -11,4 +11,4 @@
 
 ---
 ![My Profile Status](https://github-readme-stats.vercel.app/api/?username=Henry12960&show_icons=true&hide_border=true&theme=algolia&count_private=true)
-![Status](https://github-readme-streak-stats.herokuapp.com/?user={Henry12660})
+![Status](https://github-readme-streak-stats.herokuapp.com/?username=Henry12960&show_icons=true&hide_border=true&theme=algolia&count_private=true)
