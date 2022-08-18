@@ -4,11 +4,11 @@
 📟 Languagues Status
 
 ┏━━━━━━━━━━━━━━━
-┃**Java** Family ➔ Specialist
-┃
-┃**C** Family ➔ Intermediary
-┃
-┃**PHP** ➔ Beginner
+┃ **Java** Family ➔ Specialist
+
+┃ **C** Family ➔ Intermediary
+
+┃ **PHP** ➔ Beginner
 ┗━━━━━━━━━━━━━━━━
 ---
 ## Minecraft Plugins
