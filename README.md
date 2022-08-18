@@ -1,8 +1,8 @@
 ## Introduction
 👋 • Hello, my name is Henry and I work in the programming area updating and creating new projects.
 
-### 📟 Languagues Status
 ---
+### 📟 Languagues Status
 
 ✪ **Java** Family ➔ Specialist 
 
@@ -10,8 +10,8 @@
 
 ✪ **PHP** ➔ Beginner
 
-### 🎯 My Objective
 ---
+### 🎯 Objective
 
 • My current goal is to study and update outdated plugins for new version of Minecraft Bedrock software called pocketMine-MP
 
@@ -29,6 +29,5 @@
 
 ---
 ### Github Status
----
 ![Henry Status](https://github-readme-stats.vercel.app/api/?username=Henry12960&show_icons=true&hide_border=true&theme=algolia&count_private=true)
 ---
