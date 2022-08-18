@@ -8,3 +8,10 @@
 | **[**🔰 CustomPVP**](https://poggit.pmmp.io/p/CustomPVP/1.0.0)** | *<a href="https://poggit.pmmp.io/p/CustomPVP"><img src="https://poggit.pmmp.io/shield.state/CustomPVP"></a>* | **<a href="https://poggit.pmmp.io/p/CustomPVP"><img src="https://poggit.pmmp.io/shield.api/CustomPVP"></a>** | **<a href="https://poggit.pmmp.io/p/CustomPVP"><img src="https://poggit.pmmp.io/shield.dl.total/CustomPVP"></a>**| **28/06/2022** |
 | **[**🏹 BowTime**](https://poggit.pmmp.io/p/BowTime/1.0.0)** | *<a href="https://poggit.pmmp.io/p/BowTime"><img src="https://poggit.pmmp.io/shield.state/BowTime"></a>* | **<a href="https://poggit.pmmp.io/p/BowTime"><img src="https://poggit.pmmp.io/shield.api/BowTime"></a>** | **<a href="https://poggit.pmmp.io/p/BowTime"><img src="https://poggit.pmmp.io/shield.dl.total/BowTime"></a>**| **16/08/2022** |
 | **[**💡 TouchLight**](https://poggit.pmmp.io/p/TouchLight-V2/2.0.0)** | *<a href="https://poggit.pmmp.io/p/TouchLight-V2"><img src="https://poggit.pmmp.io/shield.state/TouchLight-V2"></a>* | **<a href="https://poggit.pmmp.io/p/TouchLight-V2"><img src="https://poggit.pmmp.io/shield.state/TouchLight-V2"></a>** | **<a href="https://poggit.pmmp.io/p/TouchLight-V2"><img src="https://poggit.pmmp.io/shield.state/TouchLight-V2"></a>**| **16/08/2022** |
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Henry12960&color=green)
+---
+![Henry12960 github stats](https://github-readme-stats.vercel.app/api/?username=Henry12960&show_icons=true&hide_border=true&theme=algolia&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry12960&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/Henry12960)
