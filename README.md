@@ -10,8 +10,4 @@
 | **[**💡 TouchLight**](https://poggit.pmmp.io/p/TouchLight-V2/2.0.0)** | *<a href="https://poggit.pmmp.io/p/TouchLight-V2"><img src="https://poggit.pmmp.io/shield.state/TouchLight-V2"></a>* | **<a href="https://poggit.pmmp.io/p/TouchLight-V2"><img src="https://poggit.pmmp.io/shield.state/TouchLight-V2"></a>** | **<a href="https://poggit.pmmp.io/p/TouchLight-V2"><img src="https://poggit.pmmp.io/shield.state/TouchLight-V2"></a>**| **16/08/2022** |
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=Henry12960&color=green)
----
-![Henry12960 github stats](https://github-readme-stats.vercel.app/api/?username=Henry12960&show_icons=true&hide_border=true&theme=algolia&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry12960&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/Henry12960)
+![Profile Status](https://github-readme-stats.vercel.app/api/?username=Henry12960&show_icons=true&hide_border=true&theme=algolia&count_private=true)
