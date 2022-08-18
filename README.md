@@ -11,7 +11,7 @@
 
 🎯 My Objective
 
-➜ My current goal is to study and update outdated plugins for new version of bedrock minecraft software called pocketMine-MP
+• My current goal is to study and update outdated plugins for new version of Minecraft Bedrock software called pocketMine-MP
 
 ---
 ## Minecraft Plugins
