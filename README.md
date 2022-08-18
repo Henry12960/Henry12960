@@ -1,7 +1,6 @@
 ## Introduction
 👋 • Hello, my name is Henry and I work in the programming area updating and creating new projects.
 
----
 ## 📟 Languagues Status
 
 ✪ **Java** Family ➔ Specialist 
@@ -10,7 +9,6 @@
 
 ✪ **PHP** ➔ Median
 
----
 ## 🎯 Objective
 
 • My current goal is to study and update outdated plugins for new version of Minecraft Bedrock software called pocketMine-MP
