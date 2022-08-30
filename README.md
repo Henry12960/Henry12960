@@ -1,3 +1,5 @@
+
+
 ## 🔮 Introduction
 👋 • Hello, my name is Henry and I work in the programming area updating and creating new projects.
 
@@ -25,4 +27,6 @@
 ---
 ### Github Status
 ![Henry Status](https://github-readme-stats.vercel.app/api/?username=Henry12960&show_icons=true&hide_border=true&theme=algolia&count_private=true)
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Henry12960&theme=gotham&hide_border=true&area=true)
 ---
