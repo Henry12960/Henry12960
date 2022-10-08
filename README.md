@@ -1,10 +1,12 @@
 <h2> 👋 » Introduction </h2>
-  <ul>
-    <li>🔭 Working on public projects.</li>
-    <li>🎓 Studying computer science.</li>
-    <li>🔮 My current goal is to study PHP!</li>
-    <li>🍕 I'm a complete pizza lover!</li>
-  </ul>
+  <div>
+    <ul>
+      <li>🔭 Working on public projects.</li>
+      <li>🎓 Studying computer science.</li>
+      <li>🔮 My current goal is to study PHP!</li>
+      <li>🍕 I'm a complete pizza lover!</li>
+    </ul>
+  </div>
 
 ---
 
