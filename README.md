@@ -28,8 +28,24 @@
   
 <hr>
 
-<div>
+<div style="in_line">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henry12960&theme=algolia">
 </div>  
 
+<hr>
+
+<div> 
+  <h2>⭐ » Favorites</h2>
+    <ul>
+      <li>📕 Languague: <b>Java</b></li>
+      <li>😋 Food: <b>Pizza</b></li>
+      <li>🌎 Country: <b>France</b></li>
+      <li>👨‍🎓 Work: <b>Developer</b></li>
+</div>
+
+<hr>
+
+<div style="in_line">
+  <img src="https://github-profile-trophy.vercel.app/?username=Henry12960&theme=algolia">
+</div>
 
