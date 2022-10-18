@@ -12,5 +12,24 @@
 
 <div style="in_line">
   <img src="https://github-readme-stats.vercel.app/api/?username=Henry12960&show_icons=true&hide_border=false&theme=algolia&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henry12960&theme=algolia" />
 </div>
+
+<hr> 
+
+<div>
+  <h2>📌 » Characteristics</h2>
+    <ul>
+      <li>🚀 I quickly learn new code languages.</li>
+      <li>🔔 I like to code in my spare time</li>
+      <li>⏰ I'm never late</li>
+      <li>⭐ I dedicate myself to what I like</li>
+    </ul>
+</div>
+  
+<hr>
+
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henry12960&theme=algolia">
+</div>  
+
+
