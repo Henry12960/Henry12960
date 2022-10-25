@@ -49,4 +49,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Henry12960&theme=algolia">
 </div>
 
+<br>
+
+<div>
+  <p>I'm out for now, I back coming soon, by <b>Henry</b></p>
+</div>
 <hr>
