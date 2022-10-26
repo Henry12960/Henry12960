@@ -12,6 +12,7 @@
 
 <div style="in_line">
   <img src="https://github-readme-stats.vercel.app/api/?username=Henry12960&show_icons=true&hide_border=false&theme=algolia&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry12960&show_icons=true&hide_border=false&theme=algolia&count_private=true">
 </div>
 
 <hr> 
