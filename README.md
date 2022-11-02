@@ -53,7 +53,7 @@
   
 <div>
   <h2>🏆 » Historic</h2>
-    <ol>
+    <ul>
       <li>📦 Finished my work in <strong>PHP</strong> with 12 repositories</li>
-    </ol>
+    </ul>
 </div>  
