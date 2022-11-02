@@ -3,7 +3,7 @@
     <ul>
       <li>🔭 Working on public projects.</li>
       <li>🎓 Studying computer science.</li>
-      <li>🔮 My current goal is to study Python!</li>
+      <li>🔮 My current goal is to study JavaScript and Python!</li>
       <li>🍕 I'm a complete pizza lover!</li>
     </ul>
   </div>
