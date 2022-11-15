@@ -54,6 +54,8 @@
 <div>
   <h2>🏆 » Historic</h2>
     <ul>
-      <li>📦 Finished my work in <strong>PHP</strong> with 12 repositories</li>
+      <li>🚀 Start my development with <strong>PHP</strong> [04/28/2022]</li>      
+      <li>📦 Finished my work with <strong>PHP</strong> with 12 repositories [10/13/2022]</li>
+      <li>🚀 Start my development with <strong>HTML & CSS</strong> [11/14/2022]</li>
     </ul>
 </div>  
